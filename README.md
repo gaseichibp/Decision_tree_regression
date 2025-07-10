@@ -8,7 +8,7 @@ This project demonstrates the implementation of Decision Tree Regression to pred
 
 ### Dataset
 
-The dataset Position_Salaries.csv contains the following columns:
+The dataset `Position_Salaries.csv` contains the following columns:
 - Position: Job title
 - Level: Position leve(1-10)
 - Salary: Correponding salary in dollays
@@ -21,7 +21,7 @@ The porjects requires the following Python packages:
 - matplotlib
 - scikit-learn
 
-These packages are already in the included venv virtual environment
+These packages are already in the included `venv` virtual environment
 
 ### How to Run
 
@@ -54,7 +54,7 @@ The script outputs:
   - A prediction for level 6.5 (shown in the console)
   - A visualization comparing actual salaries (red dots) with the Decision Tree Regression model's predictions (blue line)
 
-![My image](./Decision_tree_regression/Figure_1.png)
+![Decision Tree Regression Visualization](Figure_1.png)
     
 ### Notes
   - The Decision Tree Regressor is initialized with random_state=0 for reproducibility
