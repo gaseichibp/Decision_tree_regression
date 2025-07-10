@@ -1,4 +1,4 @@
-# Decision_tree_regression
+# Decision tree regression
 
 # `English version`:
 
